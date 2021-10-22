@@ -47,3 +47,48 @@
 	background-color: #eee;
 	float: left;
 }
+
+
+.left-sb h2 {
+	width: 200px;
+	padding: 0 auto;
+	margin: 20px;
+	font-size: 32px;
+}
+
+.left-sb ul {
+	margin: 20px ;
+	width: 200px;
+	list-style: none;
+	text-transform: uppercase;
+	line-height: 35px;
+}
+
+.right-sb {
+	width: 1000px;
+	height: 637px;
+	display: block;
+	background-color: #fff;
+}
+
+
+.right-sb h5 {
+	margin: 0px 40px;
+}
+
+.right-sb h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 20px 40px;
+	display: flex;
+}
+
+
+.art-image {
+	margin: 25px 40px
+	width: 230px;
+	height: 130px;
+	border-radius: 10px;
+	background-size: cover;
+	background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202011/2519/HLsWRYWFM5oIGLdJ8pwUqlPj.png);
+}
